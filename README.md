@@ -1,7 +1,7 @@
 # Docker Image for Elasticsearch
 
 
-<img src="https://github.com/rolindroy/elasticsearch/blob/master/files/elasticsearch.png" width="400" height="110" />
+<img src="https://raw.githubusercontent.com/docker-library/docs/7baeec9386c1d3960fc9021a5973694b2e0e1af9/elasticsearch/logo.png" />
 
 This is a modified version of elasticsearch docker image.
 ### What is Elasticsearch ?
